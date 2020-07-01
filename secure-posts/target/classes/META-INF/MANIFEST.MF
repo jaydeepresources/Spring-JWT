@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: jaydeep
+Build-Jdk: 11.0.7
+Implementation-Title: secure-posts
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.posts
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/secure-posts
+Created-By: Maven Integration for Eclipse
+
